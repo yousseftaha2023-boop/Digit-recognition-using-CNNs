@@ -2,7 +2,8 @@
 
 A convolutional neural network for the Kaggle [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer) competition (MNIST handwritten digits). The model classifies 28x28 grayscale images into the digits 0 to 9.
 
-**Public leaderboard score:** 0.98528 (classification accuracy)
+**Public leaderboard score:** 0.98528 (AUC)
+
 
 ## Overview
 
